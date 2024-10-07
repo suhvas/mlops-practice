@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/954319597419420909
+creation_time: 1728187665523
+experiment_id: '954319597419420909'
+last_update_time: 1728187665523
+lifecycle_stage: active
+name: experiment_autolog

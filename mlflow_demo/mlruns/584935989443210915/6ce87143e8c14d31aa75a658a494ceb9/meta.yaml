@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/584935989443210915/6ce87143e8c14d31aa75a658a494ceb9/artifacts
+end_time: 1726932844392
+entry_point_name: ''
+experiment_id: '584935989443210915'
+lifecycle_stage: active
+run_id: 6ce87143e8c14d31aa75a658a494ceb9
+run_name: honorable-cod-574
+run_uuid: 6ce87143e8c14d31aa75a658a494ceb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726932837478
+status: 3
+tags: []
+user_id: US

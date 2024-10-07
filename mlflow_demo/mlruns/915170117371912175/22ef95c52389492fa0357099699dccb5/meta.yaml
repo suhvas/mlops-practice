@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/915170117371912175/22ef95c52389492fa0357099699dccb5/artifacts
+end_time: 1728187539860
+entry_point_name: ''
+experiment_id: '915170117371912175'
+lifecycle_stage: active
+run_id: 22ef95c52389492fa0357099699dccb5
+run_name: run3.1
+run_uuid: 22ef95c52389492fa0357099699dccb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728187535774
+status: 3
+tags: []
+user_id: US

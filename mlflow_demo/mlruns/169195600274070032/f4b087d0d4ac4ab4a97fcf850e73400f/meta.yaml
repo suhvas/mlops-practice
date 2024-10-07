@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/169195600274070032/f4b087d0d4ac4ab4a97fcf850e73400f/artifacts
+end_time: 1728187513948
+entry_point_name: ''
+experiment_id: '169195600274070032'
+lifecycle_stage: active
+run_id: f4b087d0d4ac4ab4a97fcf850e73400f
+run_name: smiling-crab-87
+run_uuid: f4b087d0d4ac4ab4a97fcf850e73400f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728187508214
+status: 3
+tags: []
+user_id: US

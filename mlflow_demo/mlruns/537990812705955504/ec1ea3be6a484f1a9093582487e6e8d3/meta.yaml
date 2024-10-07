@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/537990812705955504/ec1ea3be6a484f1a9093582487e6e8d3/artifacts
+end_time: 1728186330345
+entry_point_name: ''
+experiment_id: '537990812705955504'
+lifecycle_stage: active
+run_id: ec1ea3be6a484f1a9093582487e6e8d3
+run_name: loud-swan-312
+run_uuid: ec1ea3be6a484f1a9093582487e6e8d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728186324056
+status: 3
+tags: []
+user_id: US

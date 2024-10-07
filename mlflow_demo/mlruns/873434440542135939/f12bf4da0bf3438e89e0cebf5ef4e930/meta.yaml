@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/873434440542135939/f12bf4da0bf3438e89e0cebf5ef4e930/artifacts
+end_time: 1728140822630
+entry_point_name: ''
+experiment_id: '873434440542135939'
+lifecycle_stage: active
+run_id: f12bf4da0bf3438e89e0cebf5ef4e930
+run_name: casual-stag-194
+run_uuid: f12bf4da0bf3438e89e0cebf5ef4e930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728140814338
+status: 3
+tags: []
+user_id: US

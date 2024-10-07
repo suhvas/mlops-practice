@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/537990812705955504/81dba03803654a28808f918a25317ecc/artifacts
+end_time: 1728187466088
+entry_point_name: ''
+experiment_id: '537990812705955504'
+lifecycle_stage: active
+run_id: 81dba03803654a28808f918a25317ecc
+run_name: angry-elk-275
+run_uuid: 81dba03803654a28808f918a25317ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728187460342
+status: 3
+tags: []
+user_id: US

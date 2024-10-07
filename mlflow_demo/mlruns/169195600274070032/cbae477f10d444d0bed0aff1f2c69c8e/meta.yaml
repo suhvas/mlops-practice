@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/169195600274070032/cbae477f10d444d0bed0aff1f2c69c8e/artifacts
+end_time: 1728117634327
+entry_point_name: ''
+experiment_id: '169195600274070032'
+lifecycle_stage: active
+run_id: cbae477f10d444d0bed0aff1f2c69c8e
+run_name: grandiose-crane-403
+run_uuid: cbae477f10d444d0bed0aff1f2c69c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728117628260
+status: 3
+tags: []
+user_id: US

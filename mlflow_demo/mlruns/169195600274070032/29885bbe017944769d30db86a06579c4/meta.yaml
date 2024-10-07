@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/169195600274070032/29885bbe017944769d30db86a06579c4/artifacts
+end_time: 1728117352464
+entry_point_name: ''
+experiment_id: '169195600274070032'
+lifecycle_stage: active
+run_id: 29885bbe017944769d30db86a06579c4
+run_name: sassy-slug-1000
+run_uuid: 29885bbe017944769d30db86a06579c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728117347003
+status: 3
+tags: []
+user_id: US

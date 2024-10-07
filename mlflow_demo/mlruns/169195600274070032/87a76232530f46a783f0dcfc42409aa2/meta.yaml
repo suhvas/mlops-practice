@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/169195600274070032/87a76232530f46a783f0dcfc42409aa2/artifacts
+end_time: 1728187484279
+entry_point_name: ''
+experiment_id: '169195600274070032'
+lifecycle_stage: active
+run_id: 87a76232530f46a783f0dcfc42409aa2
+run_name: exultant-vole-804
+run_uuid: 87a76232530f46a783f0dcfc42409aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728187478449
+status: 3
+tags: []
+user_id: US

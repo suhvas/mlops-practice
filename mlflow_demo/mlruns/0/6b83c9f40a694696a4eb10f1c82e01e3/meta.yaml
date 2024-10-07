@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/0/6b83c9f40a694696a4eb10f1c82e01e3/artifacts
+end_time: 1728106323174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b83c9f40a694696a4eb10f1c82e01e3
+run_name: bustling-stoat-270
+run_uuid: 6b83c9f40a694696a4eb10f1c82e01e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728106323126
+status: 3
+tags: []
+user_id: US

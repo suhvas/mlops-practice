@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/865743620427854791
+creation_time: 1728187567150
+experiment_id: '865743620427854791'
+last_update_time: 1728187567150
+lifecycle_stage: active
+name: exp_multi_Ridge

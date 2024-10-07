@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/537990812705955504/336ae972af8644a1ad4871d58cdcb19e/artifacts
+end_time: 1727619489295
+entry_point_name: ''
+experiment_id: '537990812705955504'
+lifecycle_stage: active
+run_id: 336ae972af8644a1ad4871d58cdcb19e
+run_name: redolent-crab-279
+run_uuid: 336ae972af8644a1ad4871d58cdcb19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727619478962
+status: 3
+tags: []
+user_id: US

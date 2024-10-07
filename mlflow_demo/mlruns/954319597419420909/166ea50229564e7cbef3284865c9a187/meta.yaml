@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/954319597419420909/166ea50229564e7cbef3284865c9a187/artifacts
+end_time: 1728187672432
+entry_point_name: ''
+experiment_id: '954319597419420909'
+lifecycle_stage: active
+run_id: 166ea50229564e7cbef3284865c9a187
+run_name: colorful-auk-461
+run_uuid: 166ea50229564e7cbef3284865c9a187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728187665782
+status: 3
+tags: []
+user_id: US

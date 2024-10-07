@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/0/79aa891e9b7342b891f4c2cbf446476a/artifacts
+end_time: 1728105999781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79aa891e9b7342b891f4c2cbf446476a
+run_name: smiling-moose-55
+run_uuid: 79aa891e9b7342b891f4c2cbf446476a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728105999734
+status: 4
+tags: []
+user_id: US

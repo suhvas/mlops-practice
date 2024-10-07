@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/537990812705955504/5805f82895b9419da2ae3213c4e45377/artifacts
+end_time: 1728186308629
+entry_point_name: ''
+experiment_id: '537990812705955504'
+lifecycle_stage: active
+run_id: 5805f82895b9419da2ae3213c4e45377
+run_name: kindly-quail-687
+run_uuid: 5805f82895b9419da2ae3213c4e45377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728186301762
+status: 3
+tags: []
+user_id: US

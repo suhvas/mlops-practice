@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/169195600274070032/3547be1a98854e6a85f9cf65ac5a8240/artifacts
+end_time: 1728117569441
+entry_point_name: ''
+experiment_id: '169195600274070032'
+lifecycle_stage: active
+run_id: 3547be1a98854e6a85f9cf65ac5a8240
+run_name: classy-loon-918
+run_uuid: 3547be1a98854e6a85f9cf65ac5a8240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728117563838
+status: 3
+tags: []
+user_id: US

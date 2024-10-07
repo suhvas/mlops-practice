@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/537990812705955504/d42b8d732eaf43358023a72962df9dba/artifacts
+end_time: 1727621235817
+entry_point_name: ''
+experiment_id: '537990812705955504'
+lifecycle_stage: active
+run_id: d42b8d732eaf43358023a72962df9dba
+run_name: upset-crab-676
+run_uuid: d42b8d732eaf43358023a72962df9dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727621229672
+status: 3
+tags: []
+user_id: US

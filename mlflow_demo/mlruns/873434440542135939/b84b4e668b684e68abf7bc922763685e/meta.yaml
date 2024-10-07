@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Practice/mlflow_demo/mlruns/873434440542135939/b84b4e668b684e68abf7bc922763685e/artifacts
+end_time: 1728140717738
+entry_point_name: ''
+experiment_id: '873434440542135939'
+lifecycle_stage: active
+run_id: b84b4e668b684e68abf7bc922763685e
+run_name: popular-mare-789
+run_uuid: b84b4e668b684e68abf7bc922763685e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728140709011
+status: 3
+tags: []
+user_id: US
